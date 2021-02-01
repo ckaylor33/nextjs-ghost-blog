@@ -114,6 +114,12 @@
   height: 1em;
 }
 
+.goback {
+  text-align: left;
+  align-self: self-start;
+  cursor: pointer;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
